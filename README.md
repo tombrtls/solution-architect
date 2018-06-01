@@ -9,7 +9,6 @@ These are my notes on the Udemy Solution Architect Course
 ### Lambda
 ### Lightsail
 ### Batch
-----
 
 ## Storage
 ### S3
@@ -27,7 +26,6 @@ Data archival
 
 ### Storage Gateway
 - Replicate data between data center to S3
-----
 
 ## Databases
 
@@ -39,7 +37,6 @@ Data archival
 ### ElstiCache
 
 ### Red Shift
-----
 
 ## Migrations
 
@@ -52,7 +49,6 @@ Data archival
 ### Service Migration Service
 
 ### Snowbball
-----
 
 ## Networking & Content Delivery
 ### VPC
@@ -64,7 +60,6 @@ Data archival
 ### API Gateway
 
 ### Direct Connect
-----
 
 ## Developer Tools
 ### CodeStar
@@ -82,7 +77,6 @@ Deploy application to services
 ### X-Ray
 
 ### Cloud9
-----
 
 ## Management Tools
 ### CloudWatch
@@ -105,7 +99,6 @@ Logs all the AWS interactions
 Advise around security (open ports), about usage costs
 
 ### Managed Services
-----
 
 ## Media Services
 ### Elastic Transcoder
@@ -114,7 +107,6 @@ Advise around security (open ports), about usage costs
 ### MediaPackage
 ### MediaStora
 ### MediaTailor
-----
 
 ## Machine Learning
 ### SageMaker
@@ -127,8 +119,6 @@ Advise around security (open ports), about usage costs
 ### Amazon Translate
 ### Transcribe
 
-----
-
 ## Analytics
 ### Athena
 Run queries on data in S3
@@ -140,8 +130,6 @@ Run queries on data in S3
 ### QuickSight
 ### Data Pipeline
 ### Glue
-
-----
 
 ## Security & Identity & Compliance
 ### IAM
@@ -177,8 +165,6 @@ DDoS mitigation
 ### Artifact
 AWS Compliance Reports
 
-----
-
 ## Mobile Services
 ### Mobile Hub
 
@@ -192,8 +178,6 @@ Testing app on real life devices
 
 ### Mobile Analytics
 Analytics for mobile applications
-
-----
 
 ## AR/VR
 ### Sumerian
@@ -215,16 +199,12 @@ Queueing Service
 ### SWF
 Simple workflow services
 
-----
-
 ## Customer Engagement
 ### Connect
 Service desk
 
 ### Simple Email Service
 Sending email
-
-----
 
 ## Business Productivity
 ### Alexa for Business
@@ -238,15 +218,11 @@ Google Docs
 ### WorkMail
 Almost like outlook
 
-----
-
 ## Desktop & App Streaming
 ### Workspaces
 
 ### AppStream 2.0
 Stream applications to device
-
-----
 
 ## Internet of Things
 ### iOT
@@ -256,7 +232,6 @@ Stream applications to device
 ### Amazon FreeRTOS
 
 ### Greengrass
-----
 
 ## Game Development
 ### GameLift
